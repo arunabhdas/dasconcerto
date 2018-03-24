@@ -1,6 +1,6 @@
 # dasconcerto
 
-A Node-Loopback-React app
+An enterprise-commerce management system created using Loopback and React. 
 
 ## Steps
 
