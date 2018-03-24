@@ -265,3 +265,17 @@ dasconcertodb=> SELECT * FROM todoitem;
 (2 rows)
 
 dasconcertodb=> 
+
+
+
+
+# Version Management
+
+==> node -v
+v7.7.2
+~/repos/ad/githubrepos/dasconcerto (master) 
+==> npm -v
+4.1.2
+~/repos/ad/githubrepos/dasconcerto (master) 
+==> git --version
+git version 2.16.1
